@@ -4,6 +4,9 @@
 イカをただ眺めるアプリのソース
 
 # build
-cd splatoonSquid
-gomobile build
+cd splatoonSquid<br>
+gomobile build<br>
+
+# Screenshot
+<img alt="イカ" src="Screenshot.png" />
 
